@@ -26,3 +26,9 @@ $e^{i\theta(XX+ZI+IZ)} \approx e^{i\theta XX}\,e^{i\theta ZI}\,e^{i\theta IZ}
 \quad\text{(1st-order Trotter; }\theta=\pi/7\text{)},$
 where $e^{i\theta ZI}$ and $e^{i\theta IZ}$ are single-qubit $R_z(2\theta)$ phases, and $e^{i\theta XX}=(H\!\otimes\!H)\,e^{i\theta ZZ}\,(H\!\otimes\!H)$ uses the ZZ phase-gadget. :contentReference[oaicite:0]{index=0}
 
+
+8. 
+
+$U=\mathrm{QFT}_2=(I\otimes H)\,\mathrm{CS}\,(H\otimes I),$
+where the controlled-\(S\) gate is decomposed using only $\{H,T,T^\dagger,\mathrm{CNOT}\}$.
+
