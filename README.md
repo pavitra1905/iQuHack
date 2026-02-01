@@ -63,7 +63,7 @@ Lower T-count corresponds to reduced fault-tolerant cost; global phase is ignore
 ---
 
 ## References
-- iQuHACK: https://www.iquhack.com  
+- iQuHACK: https://iquhack.mit.edu/  
 - Superquantum: https://superquantum.io  
 - Qiskit: https://qiskit.org  
 - Ross & Selinger, *Optimal ancilla-free Clifford+T approximation of Z-rotations*, arXiv:1403.2975
