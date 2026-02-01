@@ -16,4 +16,8 @@ $e^{i\theta(XX+YY)} =
 (H\otimes H),$ 
 since \(H X H = Z\) and \(H Y H = -Y\), mapping \(XX+YY \mapsto ZZ\).
 
+5.
+
+$\mathrm{SWAP}=\frac{1}{2}\bigl(I+XX+YY+ZZ\bigr)\;\Rightarrow\;XX+YY+ZZ=2\,\mathrm{SWAP}-I,$ so $e^{i\frac{\pi}{4}(XX+YY+ZZ)} = e^{i\pi/4}\,\mathrm{SWAP}$, i.e. **SWAP up to global phase**
+
 
