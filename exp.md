@@ -32,3 +32,9 @@ where $e^{i\theta ZI}$ and $e^{i\theta IZ}$ are single-qubit $R_z(2\theta)$ phas
 $U=\mathrm{QFT}_2=(I\otimes H)\,\mathrm{CS}\,(H\otimes I),$
 where the controlled-\(S\) gate is decomposed using only $\{H,T,T^\dagger,\mathrm{CNOT}\}$.
 
+9. 
+
+$U = (I\otimes S)\;\mathrm{C}H\;(I\otimes S^\dagger),$
+i.e. a controlled-Hadamard on the second qubit with phase corrections, decomposed into $\{H,T,T^\dagger,\mathrm{CNOT}\}$.
+
+
